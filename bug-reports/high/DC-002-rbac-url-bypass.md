@@ -1,9 +1,9 @@
-# DC-002 — Role-Based Access Control (RBAC) Bypass via Direct URL Entry
+﻿# DC-002 — Role-Based Access Control (RBAC) Bypass via Direct URL Entry
 
 | Field | Value |
 |---|---|
 | **Bug ID** | DC-002 |
-| **Severity** | 🔴 High |
+| **Severity** |  High |
 | **Priority** | P1 |
 | **Module** | Security / User Roles |
 | **Reported By** | QA Engineering |

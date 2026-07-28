@@ -1,9 +1,9 @@
-# DC-005 — System Accepts Negative Values for External Recruiter Fees
+﻿# DC-005 — System Accepts Negative Values for External Recruiter Fees
 
 | Field | Value |
 |---|---|
 | **Bug ID** | DC-005 |
-| **Severity** | 🔴 High |
+| **Severity** |  High |
 | **Priority** | P1 |
 | **Module** | Vacancies / Financials |
 | **Reported By** | QA Engineering |

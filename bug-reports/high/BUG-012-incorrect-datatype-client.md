@@ -1,9 +1,9 @@
-# BUG-012 — Client Creation Form Accepts Incorrect Data Types
+﻿# BUG-012 — Client Creation Form Accepts Incorrect Data Types
 
 | Field | Value |
 |---|---|
 | **Bug ID** | BUG-012 |
-| **Severity** | 🔴 High |
+| **Severity** |  High |
 | **Priority** | P2 |
 | **Module** | Clients / CRM |
 | **Reported By** | QA Engineering |

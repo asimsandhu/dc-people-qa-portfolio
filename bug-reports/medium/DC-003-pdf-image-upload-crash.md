@@ -1,9 +1,9 @@
-# DC-003 — PDF Upload Fails if Document Contains Specific Images
+﻿# DC-003 — PDF Upload Fails if Document Contains Specific Images
 
 | Field | Value |
 |---|---|
 | **Bug ID** | DC-003 |
-| **Severity** | 🟠 Medium |
+| **Severity** |  Medium |
 | **Priority** | P2 |
 | **Module** | Candidates / CV Parsing |
 | **Reported By** | QA Engineering |

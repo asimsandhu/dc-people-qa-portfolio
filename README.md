@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=QA+Engineering+Portfolio;DC+People+HR+%26+Recruitment+Platform;Manual+Testing+%7C+Test+Design+%7C+Defect+Tracking" alt="QA Portfolio" />
 
-# 🏢 DC People — Enterprise HR & Recruitment Platform QA
+#  DC People — Enterprise HR & Recruitment Platform QA
 
 ### Comprehensive Quality Assurance Portfolio for an Enterprise B2B Application
 
@@ -11,13 +11,13 @@
 [![Testing Type](https://img.shields.io/badge/Testing-Manual%20%26%20Functional-F59E0B?style=for-the-badge&logo=testinglibrary&logoColor=white)]()
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-Authored-10B981?style=for-the-badge)]()
 
-[📋 Bug Reports](#-bug-reports) · [✅ Test Cases](#-test-cases) · [🎯 Project Scope](#-project-overview) · [🛠 Methodology](#-testing-methodology)
+[ Bug Reports](#-bug-reports) · [ Test Cases](#-test-cases) · [ Project Scope](#-project-overview) · [ Methodology](#-testing-methodology)
 
 </div>
 
 ---
 
-## 👤 About This Portfolio
+##  About This Portfolio
 
 > This portfolio showcases my QA Engineering work on **DC People**, a private enterprise web application used by HR departments, recruiters, and corporate brokers to source, manage, and match candidates with job vacancies.
 >
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Project Overview — "DC People"
+##  Project Overview — "DC People"
 
 | Aspect | Details |
 |---|---|
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Testing Highlights & Discoveries
+##  Testing Highlights & Discoveries
 
 During the testing lifecycle, I focused heavily on data integrity and edge-case handling. Key findings included:
 
@@ -46,17 +46,17 @@ During the testing lifecycle, I focused heavily on data integrity and edge-case 
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 dc-people-qa-portfolio/
 │
-├── 📁 bug-reports/
+├──  bug-reports/
 │   ├── high/                   # Business-blocking or data integrity bugs
 │   ├── medium/                 # Functional issues with workarounds
 │   └── low/                    # Minor validation or UI issues
 │
-├── 📁 test-cases/
+├──  test-cases/
 │   ├── module-candidates.md    # CV uploads, parsing, editing
 │   ├── module-clients.md       # CRM functionality
 │   ├── module-vacancies.md     # Job creation, AI matching
@@ -67,11 +67,11 @@ dc-people-qa-portfolio/
 
 ---
 
-## 🐛 Bug Reports (Key Discoveries)
+##  Bug Reports (Key Discoveries)
 
 The following are detailed reports of critical defects I discovered during testing. Full reports are available in the [`/bug-reports`](./bug-reports/) directory.
 
-### 🔴 High Severity (P1)
+###  High Severity (P1)
 
 | Bug ID | Title | Module | Impact |
 |---|---|---|---|
@@ -80,7 +80,7 @@ The following are detailed reports of critical defects I discovered during testi
 | [DC-001](./bug-reports/high/DC-001-docx-preview-download-error.md) | Bulk uploaded DOCX CVs force download instead of in-browser preview | Candidates | Breaks recruiter UX workflow, forcing local file management |
 | [BUG-012](./bug-reports/high/BUG-012-incorrect-datatype-client.md) | Client creation bypasses data type validation on phone/email fields | Clients | Corrupts CRM database with malformed contact data |
 
-### 🟠 Medium Severity (P2)
+###  Medium Severity (P2)
 
 | Bug ID | Title | Module | Impact |
 |---|---|---|---|
@@ -89,7 +89,7 @@ The following are detailed reports of critical defects I discovered during testi
 
 ---
 
-## ✅ Test Case Design
+##  Test Case Design
 
 I designed comprehensive test suites focusing on both positive workflows and negative edge cases. Full suites are in the [`/test-cases`](./test-cases/) directory.
 
@@ -105,7 +105,7 @@ I designed comprehensive test suites focusing on both positive workflows and neg
 
 ---
 
-## 🛠 Testing Methodology
+##  Testing Methodology
 
 1.  **Requirement Analysis**: Translated ambiguous business requirements into concrete, measurable pass/fail criteria.
 2.  **Boundary Value Analysis**: Specifically targeted numeric fields (fees, phone numbers) and file upload limits (file count, file type).
@@ -114,7 +114,7 @@ I designed comprehensive test suites focusing on both positive workflows and neg
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
